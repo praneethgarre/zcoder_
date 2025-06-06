@@ -16,6 +16,13 @@ npm i
 nodemon index.js
 ```
 
+Create a `.env` file in the backend folder with the following variables:
+```
+MONGODB_URI=mongodb://localhost:27017/zcoder
+PORT=3000
+JWT_SECRET=your_jwt_secret_key
+```
+
 ### Run frontend
 Then open a new terminal and
 ```bash
@@ -24,7 +31,7 @@ npm i
 npm run dev
 ```
 
-Also create a new file called `.env` in the frontend folder at the same level of src,public. The format for it is:
+Create a `.env` file in the frontend folder with the following variables:
 ```
 VITE_API_URL = https://alfa-leetcode-api.onrender.com
 VITE_BACKEND_URL = http://localhost:3000
