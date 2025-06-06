@@ -5,7 +5,7 @@ A interactive coding community platform to practise and scale up your skills.
 ## Run Locally
 ### First clone the repo
 ```bash
-git clone https://github.com/vijay-kumar-79/ZCoder.git
+git clone https://github.com/praneethgarre/zcoder_.git
 cd ZCoder
 ```
 
