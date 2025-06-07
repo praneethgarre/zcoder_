@@ -21,6 +21,7 @@ Create a `.env` file in the backend folder with the following variables:
 MONGODB_URI=mongodb://localhost:27017/zcoder
 PORT=3000
 JWT_SECRET=your_jwt_secret_key
+(above jwt key can be found in terminal by this command < node -e "console.log(require('crypto').randomBytes(64).toString('hex'))">)
 ```
 
 ### Run frontend
