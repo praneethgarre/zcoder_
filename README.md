@@ -1,6 +1,8 @@
 # ZCoder
 
-A interactive coding community platform to practise and scale up your skills.
+ZCODER is an online coding platform designed to help developers improve their problem-solving skills through a wide variety of coding challenges, competitions, and interactive learning. Whether you're a beginner looking to learn the basics or an experienced developer sharpening your algorithmic skills, ZCODER provides the perfect environment to practice, learn, and grow.
+
+Our platform features a vast collection of problems across multiple difficulty levels, from basic syntax challenges to advanced algorithms and data structures. The goal is to help you prepare for technical interviews, improve your problem-solving techniques, and track your progress over time.
 
 ## Run Locally
 ### First clone the repo
