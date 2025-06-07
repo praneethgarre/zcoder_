@@ -13,7 +13,7 @@ cd ZCoder
 ```bash
 cd backend
 npm i 
-nodemon index.js
+nodemon index.js or node index.js
 ```
 
 Create a `.env` file in the backend folder with the following variables:
@@ -29,9 +29,8 @@ Then open a new terminal and
 ```bash
 cd frontend
 npm i
-npm run dev
+npm run dev (o+enter to run on chrome)
 ```
-
 Create a `.env` file in the frontend folder with the following variables:
 ```
 VITE_API_URL = https://alfa-leetcode-api.onrender.com
