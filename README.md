@@ -41,4 +41,3 @@ VITE_JUDGE = https://emkc.org/api/v2/piston/execute
 
 Then visit http://localhost:5173/
 
-# Zcoder
